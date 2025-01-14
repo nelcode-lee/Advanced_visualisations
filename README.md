@@ -1,8 +1,8 @@
 Advanced Visualisations using seaborn (Movie Analytics)
 
-Scope: Analise dataset of Movie ratings to find information that can help us to understand the and interpret the relatinships between:
+Scope: Analise dataset of Movie ratings to find information that can help us to understand them and interpret the relationships between:
 Audience Rating
-Critic Ratig
+Critic Rating
 Genre 
 Budget
 
@@ -11,11 +11,11 @@ Pandas
 Seaborn
 Matplotlib
 
-Projet Overvirew: Learning how to create strong and meaningful visualisations.
+Projet Overview: Learning how to create strong and meaningful visualisations.
 
 Elements:  
 renaming columns for use in pandas (using List)
-changing dtypes from objects to catergiorical variables
+changing dtypes from objects to categorical variables
 
 
 Vialualisation Types:
